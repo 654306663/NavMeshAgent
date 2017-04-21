@@ -1,0 +1,8 @@
+Base path: D:/Program Files/Unity5.3.6/Editor/Data
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=1642 outsize=584 kw=SOFTPARTICLES_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=9 insize=584 outsize=1039 ok=1
+Cmd: disassembleShader
+  api=17 insize=789 outsize=1697 ok=1
