@@ -15,3 +15,4 @@
 寻路结束，关闭寻路组件，打开障碍组件。
 
 更详细内容 请查看站点：http://www.u3d8.com/?p=1093
+![image](http://www.u3d8.com/wp-content/uploads/2017/04/PathFinding.gif)
